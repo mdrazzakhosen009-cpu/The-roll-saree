@@ -1,0 +1,1 @@
+{"name":"saree-premium-store","version":"6.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=20"},"dependencies":{"@libsql/client":"^0.15.15","express":"^4.21.2","multer":"^2.0.2"}}
